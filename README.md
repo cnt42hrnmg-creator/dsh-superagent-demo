@@ -2,4 +2,4 @@
 
 Scratch repository for the dsh-superagent prototype smoke tset.
 
-Additonal note: this line contains a deliberat typo, so the copy rule has something to fix.
+Additional note: this line contains a deliberate typo, so the copy rule has something to fix.
