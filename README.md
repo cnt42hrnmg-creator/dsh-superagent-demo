@@ -1,2 +1,3 @@
 # dsh-superagent-demo
-Scratch repository for the dsh-superagent prototype smoke test
+
+Scratch repositary for the dsh-superagent prototype smoke test.
